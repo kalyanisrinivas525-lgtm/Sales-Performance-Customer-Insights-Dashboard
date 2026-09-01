@@ -19,17 +19,17 @@ The project focuses on understanding sales performance, profit, product performa
 Sales-Analytics-Project
 │
 ├── data
-│   └── sales_data.csv
-│
+    └── sales_data.csv
+
 ├── java
-│   └── SalesDataReader.java
-│
+     └── SalesDataReader.java
+
 ├── sql
-│   └── sales_analysis.sql
-│
+     └── sales_analysis.sql
+
 ├── powerbi
-│   └── Sales_Analytics_Dashboard.pbix
-│
+      └── Sales_Analytics_Dashboard.pbix
+      │
 └── README.md
 
 ## 📈 Key Metrics
