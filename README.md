@@ -14,21 +14,14 @@ The project focuses on understanding sales performance, profit, product performa
 - Excel / CSV
 - GitHub
 
-Sales-Analytics-Project
-│
-├── data
-│   └── sales_data.csv
-│
-├── java
-│   └── SalesDataReader.java
-│
-├── sql
-│   └── sales_analysis.sql
-│
-├── powerbi
-│   └── Sales_Analytics_Dashboard.pbix
-│
-└── README.md
+| Folder/File                              | Description                                       |
+| ---------------------------------------- | ------------------------------------------------- |
+| `data/sales_data.csv`                    | Sales dataset                                     |
+| `java/SalesDataReader.java`              | Java program for reading and analyzing sales data |
+| `sql/sales_analysis.sql`                 | SQL queries for sales analysis                    |
+| `powerbi/Sales_Analytics_Dashboard.pbix` | Power BI dashboard                                |
+| `README.md`                              | Project documentation                             |
+
 
 ## 📈 Key Metrics
 
