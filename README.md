@@ -16,18 +16,18 @@ The project focuses on understanding sales performance, profit, product performa
 
 ## 📁 Project Structure
 
-Sales-Analytics-Project/
+Sales-Analytics-Project
 │
-├── data/
+├── data
 │   └── sales_data.csv
 │
-├── java/
+├── java
 │   └── SalesDataReader.java
 │
-├── sql/
+├── sql
 │   └── sales_analysis.sql
 │
-├── powerbi/
+├── powerbi
 │   └── Sales_Analytics_Dashboard.pbix
 │
 └── README.md
