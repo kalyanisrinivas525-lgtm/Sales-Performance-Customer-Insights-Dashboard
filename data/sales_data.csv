@@ -1,1 +1,15 @@
-
+Order ID,Order Date,Customer,Product,Category,Region,Sales,Quantity,Profit
+ORD001,01-JAN-2025,Ravi,Laptop,Electronics,South,55000,1,5000
+ORD002,03-JAN-2025,Priya,Office Chair,Furniture,North,8000,2,1500
+ORD003,05-JAN-2025,Karthik,Mobile,Electronics,West,30000,2,4000
+ORD004,08-JAN-2025,Santhi,Printer,Electronics,East,18000,1,2500
+ORD005,12-JAN-2025,Charan,Desk,Furniture,South,12000,1,2200
+ORD006,15-JAN-2025,Nithya,Headphones,Electronics,North,5000,3,1200
+ORD007,18-JAN-2025,Rathna,Keyboard,Electronics,West,3500,2,700
+ORD008,21-JAN-2025,Murali,Monitor,Electronics,South,22000,1,3000
+ORD009,25-JAN-2025,Divya,Bookshelf,Furniture,East,9000,1,1800
+ORD010,28-JAN-2025,Suresh,Mouse,Electronics,North,2000,4,500
+ORD011,02-FEB-2025,Anjali,Tablet,Electronics,West,28000,1,3500
+ORD012,30-JAN-2025,Harsha,Table,Furniture,South,15000,1,2800
+ORD013,15-FEB-2025,Lakshmi,Smartphone,Electronics,East,35000,2,4500
+ORD014,22-FEB-2025,Naveen,Bookshelf,Furniture,North,11000,1,2000
